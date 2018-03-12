@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1605533796002242}
+  m_IsPrefabParent: 1
+--- !u!1 &1605533796002242
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4264268275464702}
+  - component: {fileID: 114239703776621830}
+  m_Layer: 0
+  m_Name: TextGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4264268275464702
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1605533796002242}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 76.5, y: -16.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114239703776621830
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1605533796002242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 594d3189f5564432ebb6402ce56747d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  storyText: {fileID: 0}
+  nameText: {fileID: 0}
+  bodyText: {fileID: 4900000, guid: dae965c824d004e78b04fc8f428c82fc, type: 3}
+  adjectives: {fileID: 4900000, guid: 5fa13d360a67443b898b8b1178456776, type: 3}
+  places: {fileID: 4900000, guid: e3d3c65d13db44c2488e54ee959422fb, type: 3}
+  colors: {fileID: 4900000, guid: 2666773ec229342dbb6ddae84a020e67, type: 3}
+  nouns: {fileID: 4900000, guid: 3d18d8a7545b340ff9701b1f2023e8bf, type: 3}
+  actions: {fileID: 4900000, guid: 69460a36200694cdbaa67d252809a7a3, type: 3}
+  locations: {fileID: 4900000, guid: 1e59d6dc02f8e421ba4929941d19263e, type: 3}
+  descriptives: {fileID: 4900000, guid: 144df9c6c797a4a4a8e3a1a610701eea, type: 3}
+  negatives: {fileID: 4900000, guid: 732b65a4ebcb246b896c0f513c3a1dd3, type: 3}
+  positives: {fileID: 4900000, guid: bb74fa19bb8db47a5938d7f3b0005f98, type: 3}
+  materials: {fileID: 4900000, guid: 1e83edfad95f5453c9550d4fa4379353, type: 3}
+  animals: {fileID: 4900000, guid: 0c98005f069ba43a8934bc4e5018fc9f, type: 3}
+  good: {fileID: 4900000, guid: 8795881172475426aa229c7bdbc24ad7, type: 3}
+  herbs: {fileID: 4900000, guid: a08be60ff5fd94e838c73046b5d44ce4, type: 3}
+  feelings: {fileID: 4900000, guid: 304afe84b4f6a420d8f00b357cbc8645, type: 3}
+  bodyArray: []
+  adjArray: []
+  placeArray: []
+  colorArray: []
+  nounArray: []
+  actArray: []
+  locArray: []
+  descriptArray: []
+  animalArray: []
+  goodArray: []
+  posArray: []
+  herbArray: []
+  negArray: []
+  materialArray: []
+  feelArray: []
+  pronouns:
+  - she
+  - he
+  - they
+  prenouns:
+  - her
+  - his
+  - their
+  prenounsex:
+  - she is
+  - he is
+  - they are
+  pronoun:
+  - her
+  - him
+  - them
+  weapons:
+  - wand
+  - axe
+  - hat
+  - dress
+  - fork
+  - sword
+  character: {fileID: 0}

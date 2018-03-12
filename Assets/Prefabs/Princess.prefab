@@ -1,0 +1,7054 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1681766558105942}
+  m_IsPrefabParent: 1
+--- !u!1 &1681766558105942
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4654132050902290}
+  - component: {fileID: 212984148870005868}
+  - component: {fileID: 114862017118669748}
+  m_Layer: 0
+  m_Name: Princess
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4654132050902290
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1681766558105942}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.94, y: -1.27, z: 0}
+  m_LocalScale: {x: 27.855024, y: 27.855024, z: 0.79585785}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114862017118669748
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1681766558105942}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 614df0333747f46438fb8d36726a8374, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  texture: {fileID: 0}
+  head:
+    name: Head
+    shape:
+      texture:
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      width: 12
+      height: 12
+      isNull: 0
+    styleLayers:
+    - name: Hair
+      styles:
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0.19999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      colors:
+      - {r: 0.63235295, g: 0.50201267, b: 0.26503026, a: 1}
+      - {r: 0.33088237, g: 0.1920863, b: 0.10218426, a: 1}
+      - {r: 0.9044118, g: 0.7788286, b: 0.37240484, a: 1}
+      - {r: 0.88235295, g: 0.64968383, b: 0.23356403, a: 1}
+      - {r: 0.058823526, g: 0.058823526, b: 0.058823526, a: 1}
+      - {r: 0.3897059, g: 0.36480582, b: 0.33812717, a: 1}
+      - {r: 0.99555683, g: 0.4324084, b: 0.44629377, a: 1}
+      - {r: 0.30623895, g: 0.96012366, b: 0.81268096, a: 1}
+      - {r: 0.6577083, g: 0.8873904, b: 0.082858205, a: 1}
+      - {r: 0.22793567, g: 0.022895336, b: 0.6225725, a: 1}
+      - {r: 0.76664364, g: 0.082546234, b: 0.25342423, a: 1}
+      - {r: 0.6497369, g: 0.17492664, b: 0.7537283, a: 1}
+      - {r: 0.40625256, g: 0.77832866, b: 0.47013408, a: 1}
+      drawProbability: 1
+    - name: Eyes
+      styles:
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      colors:
+      - {r: 0.2562716, g: 0.40626416, b: 0.5808823, a: 1}
+      - {r: 0.21412425, g: 0.33823532, b: 0.20393601, a: 1}
+      - {r: 0.2647059, g: 0.17283736, b: 0.035034604, a: 1}
+      - {r: 0.12609601, g: 0.8689369, b: 0.31494015, a: 1}
+      - {r: 0.89452755, g: 0.09403229, b: 0.83598876, a: 1}
+      - {r: 0.7753284, g: 0.8459723, b: 0.332043, a: 1}
+      - {r: 0.42652375, g: 0.73466754, b: 0.82396615, a: 1}
+      - {r: 0.8381902, g: 0.36350518, b: 0.35695463, a: 1}
+      drawProbability: 1
+    - name: Mouth
+      styles:
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      colors:
+      - {r: 0.86764705, g: 0.69086176, b: 0.5550389, a: 1}
+      - {r: 0.61148995, g: 0.8020433, b: 0.75083935, a: 1}
+      - {r: 0.64065504, g: 0.033482313, b: 0.6292385, a: 1}
+      - {r: 0.40394646, g: 0.40416414, b: 0.34006602, a: 1}
+      - {r: 0.30933028, g: 0.98072076, b: 0.08958864, a: 1}
+      - {r: 0.17361224, g: 0.18646264, b: 0.64371955, a: 1}
+      drawProbability: 1
+    - name: crown
+      styles:
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 12
+        isNull: 0
+      colors:
+      - {r: 0.86324084, g: 0.489829, b: 0.97207296, a: 1}
+      drawProbability: 0.857
+  body:
+    name: Body
+    shape:
+      texture:
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      width: 12
+      height: 5
+      isNull: 0
+    styleLayers:
+    - name: Jacket
+      styles:
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.09999999
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.6
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.6
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.6
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0.09999999
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.6
+          a: 1
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0.9
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.09999999
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0.9
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      colors:
+      - {r: 0.12867647, g: 0.13240366, b: 0.20588237, a: 1}
+      - {r: 0.47794116, g: 0.31032246, b: 0.1581423, a: 1}
+      - {r: 0.21734427, g: 0.22853583, b: 0.44117647, a: 1}
+      drawProbability: 1
+    - name: Shirt
+      styles:
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      colors:
+      - {r: 0.9705882, g: 0.9705882, b: 0.9705882, a: 1}
+      drawProbability: 1
+    - name: Tie
+      styles:
+      - texture:
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      colors:
+      - {r: 0.75735295, g: 0.38424525, b: 0.7161824, a: 1}
+      - {r: 0.96597946, g: 0.46801394, b: 0.23356271, a: 1}
+      - {r: 0.41544855, g: 0.77205884, b: 0.28384516, a: 1}
+      - {r: 0.9264706, g: 0.25886682, b: 0.25886682, a: 1}
+      - {r: 0.58649284, g: 0.67266273, b: 0.3777061, a: 1}
+      - {r: 0.82500136, g: 0.5840853, b: 0.5793341, a: 1}
+      - {r: 0.30730966, g: 0.4640705, b: 0.7205882, a: 1}
+      - {r: 0.15327641, g: 0.15345477, b: 0.1544118, a: 1}
+      - {r: 0.3435025, g: 0.33737025, b: 0.7647059, a: 1}
+      - {r: 0.3795415, g: 0.7941176, b: 0.7598079, a: 1}
+      drawProbability: 0.8
+    - name: weapon
+      styles:
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.39999998
+          a: 1
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0.39999998
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.7
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 5
+        isNull: 0
+      colors:
+      - {r: 0.8978374, g: 0.9809431, b: 0.33713168, a: 1}
+      - {r: 0.34008092, g: 0.4525606, b: 0.07380378, a: 1}
+      - {r: 0.6939353, g: 0.0619936, b: 0.26372093, a: 1}
+      - {r: 0.7544334, g: 0.17938638, b: 0.76298344, a: 1}
+      drawProbability: 0.817
+  legs:
+    name: Legs
+    shape:
+      texture:
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0.5
+        a: 1
+      - val: 0
+        a: 0
+      - val: 0
+        a: 0
+      width: 12
+      height: 3
+      isNull: 0
+    styleLayers:
+    - name: Pants
+      styles:
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 3
+        isNull: 0
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 3
+        isNull: 0
+      - texture:
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: -0.000000014901161
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 3
+        isNull: 0
+      colors:
+      - {r: 0.2354563, g: 0.28267428, b: 0.47794116, a: 1}
+      - {r: 0.47794116, g: 0.30731714, b: 0.1967993, a: 1}
+      - {r: 0.1397059, g: 0.1397059, b: 0.1397059, a: 1}
+      - {r: 0.6985294, g: 0.56536424, b: 0.3235835, a: 1}
+      drawProbability: 1
+    - name: Shoes
+      styles:
+      - texture:
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0.5
+          a: 1
+        - val: 0.5
+          a: 1
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        - val: 0
+          a: 0
+        width: 12
+        height: 3
+        isNull: 0
+      colors:
+      - {r: 0.102941155, g: 0.102941155, b: 0.102941155, a: 1}
+      - {r: 0.29411763, g: 0.21212465, b: 0.12975778, a: 1}
+      drawProbability: 1
+  skinColors:
+  - {r: 0.9485294, g: 0.8184674, b: 0.5858564, a: 1}
+  - {r: 0.91062784, g: 0.88768137, b: 0.43450946, a: 1}
+  - {r: 0.82753515, g: 0.8163974, b: 0.13791776, a: 1}
+  - {r: 0.06600857, g: 0.62759614, b: 0.15289474, a: 1}
+  - {r: 0.6582345, g: 0.4369642, b: 0.29901272, a: 1}
+  - {r: 0.036360145, g: 0.33638614, b: 0.9816407, a: 1}
+  - {r: 0.2275033, g: 0.7697998, b: 0.8930267, a: 1}
+  - {r: 0.66411734, g: 0.28754002, b: 0.3011431, a: 1}
+  - {r: 0.6196161, g: 0.32659823, b: 0.66115105, a: 1}
+  - {r: 0.38700837, g: 0.498681, b: 0.601847, a: 1}
+  - {r: 0.83719885, g: 0.649794, b: 0.55710274, a: 1}
+  - {r: 0.86981785, g: 0.30068296, b: 0.97263277, a: 1}
+  - {r: 0.052613378, g: 0.9042388, b: 0.4503482, a: 1}
+  - {r: 0.09379089, g: 0.5667568, b: 0.83577216, a: 1}
+  - {r: 0.27205884, g: 0.14748017, b: 0.014003026, a: 1}
+  tempHeadLayerName: 
+  tempBodyLayerName: 
+  tempLegsLayerName: 
+--- !u!212 &212984148870005868
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1681766558105942}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.12, y: 0.2}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 0
+  m_MaskInteraction: 0
