@@ -1,4 +1,4 @@
-#RandomPrincessGenerator
+RandomPrincessGenerator
 
 Narrative text generator in Unity
 
