@@ -1,4 +1,5 @@
-RandomPrincessGenerator
+#RandomPrincessGenerator
+
 Narrative text generator in Unity
 
 Inspired by Tracery (https://github.com/galaxykate/tracery) and other generative text tools, I wanted to create my own tool or library for generating short character descriptions.
